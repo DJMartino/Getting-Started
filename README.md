@@ -1,14 +1,8 @@
 # Getting-Started
 This is a learning repository to get started with GitHub
-This is a first commit to git
-Not much else going on here
 
+An example of a README file and simulation of a pull request
 
-#this is a new commit
+nothing else going on here
 
-some lines added here~!
-
-#this is my first commit
-
-added on NY day !
 
