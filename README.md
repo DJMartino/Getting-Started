@@ -7,3 +7,8 @@ Not much else going on here
 #this is a new commit
 
 some lines added here~!
+
+#this is my first commit
+
+added on NY day !
+
