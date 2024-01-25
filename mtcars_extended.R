@@ -1,0 +1,5 @@
+names(mtcars)
+summary(mtcars)
+dim(mtcars)
+plot(mtcars$mpg,mtcars$cyl)
+plot(mtcars$cyl,mtcars$wt)
